@@ -1,0 +1,9 @@
+${AnsiColor.GREEN}
+  _________         .____     ________
+ /   _____/         |    |    \______ \
+ \_____  \   ______ |    |     |    |  \
+ /        \ /_____/ |    |___  |    `   \
+/_______  /         |_______ \/_______  /
+        \/                  \/        \/
+${AnsiColor.BRIGHT_MAGENTA}
+:: sld:${application.version} ::          :: springboot:${spring-boot.version} ::

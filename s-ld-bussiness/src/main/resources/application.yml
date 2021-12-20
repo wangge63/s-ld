@@ -1,0 +1,6 @@
+server:
+  port: 1105
+spring:
+  banner:
+    location: banner.txt
+
