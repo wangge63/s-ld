@@ -44,6 +44,8 @@ public class SldApp {
    */
   @Bean
   CommandLineRunner commandLineRunner(UserRepository userRepository) {
+    //hey baby !
+    //When can you find it?
     return args -> {
       User maria = new User();
       maria.setUserName("fuxx");
